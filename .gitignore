@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/AfterEngine/x64
