@@ -7,7 +7,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc1e6f-3aed-42fe-a5a4-da2f84aa7415" name="Changes" comment="" />
+    <list default="true" id="6fdc1e6f-3aed-42fe-a5a4-da2f84aa7415" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AfterEngine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AfterEngine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/AfterEngine.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterEngine/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AfterEngine/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/AfterEngine.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/AfterEngine.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "C++ Project.AfterEngine.executor": "Run",
+    "C++ Project.AfterEngine.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -109,6 +121,7 @@
       <updated>1732631149585</updated>
       <workItem from="1732631150678" duration="24000" />
       <workItem from="1732631189217" duration="4538000" />
+      <workItem from="1732637021441" duration="102000" />
     </task>
     <servers />
   </component>
